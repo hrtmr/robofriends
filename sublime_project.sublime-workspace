@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addEventListener"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			],
+			[
+				"save project",
+				"Project: Save As"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/patri/Google Drive/Web Development/Section 19 React + Redux/robofriends_official - Verknüpfung.lnk",
+		"/C/Users/patri/Desktop/robofriends_official/src/index.js",
+		"/C/Users/patri/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/patri/Desktop/robofriends/src/index.css",
+		"/C/Users/patri/Desktop/robofriends/src/containers/App.css",
+		"/C/Users/patri/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/patri/Desktop/robofriends_official/robofriends/src/index.js",
+		"/C/Users/patri/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/patri/Desktop/robofriends/src/index.js",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_sega-logo-font-cufonfonts-webfont.zip/style.css",
+		"/C/Users/patri/Desktop/robofriends/src/robots.js",
+		"/C/Users/patri/Desktop/robofriends/src/CardList.js",
+		"/C/Users/patri/Desktop/robofriends/src/Card.js",
+		"/C/Users/patri/Desktop/robofriends/public/index.html",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_original(1).zip/exercise3-SOLUTIONS.js",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_original(1).zip/exercise3.js",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_original.zip/robots.js",
+		"/C/Users/patri/Desktop/robofriends/src/App.js",
+		"/C/Users/patri/Desktop/robofriends/src/Hello.css",
+		"/C/Users/patri/Desktop/robofriends/src/Hello.js",
+		"/C/Users/patri/Desktop/robofriends/package.json",
+		"/C/Users/patri/Google Drive/Web Development/Section 19 React + Redux/robofriends/src/App.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 19 React + Redux/robofriends/src/index.js",
+		"/C/Users/patri/Google Drive/Web Development/00_Portfolio/simplefolio/src/template.html",
+		"/C/Users/patri/Google Drive/Web Development/00_Portfolio/simplefolio/index",
+		"/C/Users/patri/Google Drive/Web Development/Section 18 NPM + NPM Scripts/script.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 18 NPM + NPM Scripts/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 18 NPM + NPM Scripts/node_modules/lodash/without.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 18 NPM + NPM Scripts/node_modules/lodash/_arrayIncludes.js",
+		"/C/Users/patri/desktop/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/patri/Desktop/CONTRIBUTORS.md",
+		"/C/Users/patri/desktop/start-here-guidelines/contributors.md",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_original_160 Exercise advanced loops.zip/advanced-looping-exercise.js",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_original_160 Exercise advanced loops.zip/advanced-looping-solution.js",
+		"/C/Users/patri/Downloads/exercise6.js",
+		"/C/Users/patri/Downloads/exercise5-SOLUTIONS-1.js",
+		"/C/Users/patri/Downloads/exercise5_personalSolutions.js",
+		"/C/Users/patri/Downloads/exercise5.js",
+		"/C/Users/patri/Downloads/exercise4-SOLUTIONS.js",
+		"/C/Users/patri/Downloads/exercise4.js",
+		"/C/Users/patri/Downloads/exercise3.js",
+		"/C/Users/patri/Downloads/exercise2.js",
+		"/C/Users/patri/Downloads/exercise2-SOLUTIONS.js",
+		"/C/Users/patri/Downloads/exercise1.js",
+		"/C/Users/patri/Downloads/exercise1-SOLUTIONS.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-132+ Background Generator/script.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-132+ Background Generator/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-132+ Background Generator/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-131 DOM Events Exercise (DOM Manipulation)/script.js",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-131 DOM Events Exercise (DOM Manipulation)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 12-131 DOM Events Exercise (DOM Manipulation)/index.html",
+		"/C/Users/patri/Downloads/script.js",
+		"/C/Users/patri/Downloads/DOM-selectors.txt",
+		"/C/Users/patri/Downloads/exercise7.txt",
+		"/C/Users/patri/Downloads/exercise7-SOLUTIONS.js",
+		"/C/Users/patri/Downloads/exercise6-SOLUTIONS.js",
+		"/C/Users/patri/Downloads/exercise6.txt",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89+ CSS (Layout Exercise)/Instructor's Solution/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89+ CSS (Layout Exercise)/Instructor's Solution/style.css",
+		"/C/Users/patri/Downloads/exercise5-SOLUTIONS.js",
+		"/C/Users/patri/AppData/Local/Temp/Temp1_CaveBiomesConfig_v1.1.0c.zip/data/caves/functions/custom_config.mcfunction",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89+ CSS (Layout Exercise)/My Solution/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89+ CSS (Layout Exercise)/My Solution/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89 CSS (Layout Exercise)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 9-89 CSS (Layout Exercise)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 9 (CSS Grid & CSS Layout)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 9 (CSS Grid & CSS Layout)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 9 (CSS Grid & CSS Layout/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 9 (CSS Grid & CSS Layout/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 8-68+ (Startup Landing Page!)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 8-68+ (Startup Landing Page!)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 8 (Startup Landing Page)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 8 (Startup Landing Page)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 8 (Bootstrap)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 8 (Bootstrap)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 8 (Bootstrap)/index - basic bootstrap.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 7 Exercise 60 (Robot Animation)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 7 Exercise 60 (Robot Animation)/style.css",
+		"/C/Users/patri/Downloads/style.css",
+		"/C/Users/patri/Downloads/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/style.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/style2.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/style3.css",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/index2.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/index.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/login.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/about.html",
+		"/C/Users/patri/Google Drive/Web Development/Section 6+ (CSS)/nasamoonrock.jpg",
+		"/C/Users/patri/Google Drive/Web Development/register.html",
+		"/C/Users/patri/Google Drive/Web Development/folder1/new page.html",
+		"/C/Users/patri/Google Drive/Web Development/linked page.html",
+		"/C/Users/patri/Google Drive/Web Development/index.html",
+		"/C/Users/patri/Google Drive/Web Development/test.html",
+		"/C/Users/patri/Google Drive/Web Development/waitbutwhycopy.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"App",
+			"var",
+			"done",
+			"polish",
+			"display:inline-block;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"let"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime_project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
